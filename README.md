@@ -78,9 +78,11 @@ return [
 
 USAGE
 -------------
+List all books
 ~~~
 http://localhost/basic/web/books
 ~~~
+Search a string for title and author 
 ~~~
 http://localhost/basic/web/books/search?title=Harry&author=J
 ~~~
