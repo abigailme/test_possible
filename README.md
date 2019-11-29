@@ -75,3 +75,13 @@ return [
 ~~~
 ./yii migrate
 ~~~
+
+USAGE
+-------------
+~~~
+http://localhost/basic/web/books
+~~~
+~~~
+http://localhost/basic/web/books/search?title=Harry&author=J
+~~~
+
